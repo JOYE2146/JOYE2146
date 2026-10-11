@@ -181,18 +181,6 @@ I bridge the gap between building high-performance digital products and securing
 
 ---
 
-## 🌳 Complete Repository Structure
 
-This file lives inside your personal special GitHub profile repository structure formatted as follows:
-
-```text
-JOYE2146/
-├── .github/
-│   └── workflows/
-│       └── snake.yml                   # GitHub Action for Snake Animation
-├── assets/
-│   ├── images/                         # Project screenshots & diagrams
-│   └── docs/                           # Documentation & presentation slides
-├── .gitignore                          # Ignored system files
 ├── LICENSE                             # MIT Open-Source License
 └── README.md                           # Main Profile Showcase Document
