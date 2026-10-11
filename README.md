@@ -17,6 +17,35 @@
 </a>
 <img src="https://img.shields.io/badge/LOCATION-ETHIOPIA-0F172A?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location Ethiopia"/>
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_PROJECTS-0F172A?style=for-the-badge&logo=statuspage&logoColor=22D3EE" alt="Status Available"/>
+<div align="center">
+
+<!-- HEADER / BRANDING -->
+# GC
+
+### **DISCIPLINE BUILDS GREATNESS**
+
+FULL-STACK DEVELOPMENT &nbsp;◆&nbsp; WEB APPLICATION SECURITY &nbsp;◆&nbsp; IT INFRASTRUCTURE & NETWORKING
+
+---
+
+<!-- SOCIAL & QUICK LINKS -->
+[🌐 Portfolio](#) &nbsp;•&nbsp; [💼 LinkedIn](#) &nbsp;•&nbsp; [✉️ Contact](mailto:your.email@example.com) &nbsp;•&nbsp; [📄 Resume](#)
+
+</div>
+
+<br />
+
+<!-- ABOUT ME SECTION -->
+## 👨‍💻 About Me
+
+> *“Same person, Better outfit, Bigger dreams.”* &nbsp;— **GC**
+
+```text
++-------------------------------------------------------------------------+
+|  MAIN ROLE: Full-Stack Developer & Network / Security Engineer          |
+|  THEME:     Formal Suit for Tech (Elegant, Confident, Modern, Timeless) |
+|  PALETTE:   #0A0A0A (Black) | #FFFFFF (White) | #333333 (Charcoal)      |
++-------------------------------------------------------------------------+
 
 <br/><br/>
 
